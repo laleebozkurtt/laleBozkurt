@@ -12,7 +12,7 @@ function Contactpage() {
         <button
           className="contactbtn"
           onClick={() => {
-            window.open("https://www.linkedin.com/in/rahulvijay81/");
+            window.open("https://www.linkedin.com/in/lale-bozkurt-03995a21b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app");
           }}
         >
           Connect Now 🚀
@@ -22,7 +22,7 @@ function Contactpage() {
           © Copyright 2023
           <hr />
           Designed & Built by <span onClick={() => {
-            window.open("https://www.instagram.com/rahulvijay81/");
+            window.open("https://www.instagram.com/laleebozkurtt?igsh=cDcwZjI0ZXo0eTE5&utm_source=qr");
           }}>rahulvijay</span>
         </p>
       </Container>
