@@ -23,7 +23,7 @@ function Contactpage() {
           <hr />
           Designed & Built by <span onClick={() => {
             window.open("https://www.instagram.com/laleebozkurtt?igsh=cDcwZjI0ZXo0eTE5&utm_source=qr");
-          }}>rahulvijay</span>
+          }}>lale bozkurt</span>
         </p>
       </Container>
     </div>
